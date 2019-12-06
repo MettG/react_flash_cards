@@ -1,5 +1,5 @@
 import React from 'react';
-import FlashCard from './Card';
+import FlashCard from './components/Card';
 import { Container, Divider, Card } from 'semantic-ui-react';
 
 const CardList = (props) => {
